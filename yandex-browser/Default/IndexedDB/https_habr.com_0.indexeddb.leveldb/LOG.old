@@ -1,0 +1,6 @@
+2025/07/08-00:24:58.531 b9af File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb is locked for recovering successfully
+2025/07/08-00:24:58.532 b9af Creating DB /home/traktor/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb since it was missing.
+2025/07/08-00:24:58.534 b9af Reusing MANIFEST /home/traktor/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/08-00:25:21.400 b9b0 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb, waiting for background work finished
+2025/07/08-00:25:21.400 b9b0 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb, background work finished
+2025/07/08-00:25:21.400 b9b0 File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb unlocked successfully

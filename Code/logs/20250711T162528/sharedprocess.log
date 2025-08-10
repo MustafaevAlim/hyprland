@@ -1,0 +1,12 @@
+2025-07-11 16:25:29.202 [info] ComputeTargetPlatform: linux-x64
+2025-07-11 16:25:31.353 [info] ComputeTargetPlatform: linux-x64
+2025-07-11 16:25:33.005 [info] Getting Manifest... ms-python.debugpy
+2025-07-11 16:25:33.005 [info] Getting Manifest... ms-python.python
+2025-07-11 16:25:33.291 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.101.2","date":"2025-06-24T20:27:15.391Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/traktor/.vscode/extensions/extensions.json","path":"/home/traktor/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-07-11 16:25:33.305 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.101.2","date":"2025-06-24T20:27:15.391Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/traktor/.vscode/extensions/extensions.json","path":"/home/traktor/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-07-11 16:25:33.730 [info] Getting Manifest... ms-python.python
+2025-07-11 16:25:35.918 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 435ms.
+2025-07-11 16:25:36.594 [info] Extracted extension to file:///home/traktor/.vscode/extensions/ms-python.python-2025.10.0-linux-x64: ms-python.python
+2025-07-11 16:25:36.635 [info] Renamed to /home/traktor/.vscode/extensions/ms-python.python-2025.10.0-linux-x64
+2025-07-11 16:25:36.644 [info] Marked extension as removed ms-python.python-2025.8.1-linux-x64
+2025-07-11 16:25:36.647 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/traktor/.vscode/extensions/extensions.json

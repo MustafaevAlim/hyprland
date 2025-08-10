@@ -1,0 +1,4 @@
+2025/07/10-16:17:08.390 5d3c File /home/traktor/.config/yandex-browser/Default/chrome_cart_db is locked for recovering successfully
+2025/07/10-16:17:08.390 5d3c Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/chrome_cart_db, waiting for background work finished
+2025/07/10-16:17:08.390 5d3c Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/chrome_cart_db, background work finished
+2025/07/10-16:17:08.390 5d3c File /home/traktor/.config/yandex-browser/Default/chrome_cart_db unlocked successfully

@@ -1,0 +1,4 @@
+2025/07/11-16:26:26.960 595 File /home/traktor/.config/yandex-browser/Default/parcel_tracking_db is locked for recovering successfully
+2025/07/11-16:26:26.960 595 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/parcel_tracking_db, waiting for background work finished
+2025/07/11-16:26:26.960 595 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/parcel_tracking_db, background work finished
+2025/07/11-16:26:26.960 595 File /home/traktor/.config/yandex-browser/Default/parcel_tracking_db unlocked successfully

@@ -1,0 +1,598 @@
+0 12:53:52.282 [0]   Init done
+2025-07-10 12:53:52.282 [0]   ReadCommandsFromFile
+2025-07-10 12:53:52.283 [0]   ReadCommandsFromFile done: 1857 (1701)
+2025-07-10 12:53:52.283 [0] ReadLastSessionCommands done
+2025-07-10 12:53:52.283 [1] GetLastSession synchronously
+2025-07-10 12:53:52.325 [0] OnGotSession: windows=1, tabs=18, pinned=0, ignored=0, ignored_pinned=0, spaces=1
+2025-07-10 12:53:52.325 [0] IsReadyToProcessSessionWindows
+2025-07-10 12:53:52.340 [0] OnGotSession(apps): windows=0, tabs=0, pinned=0, ignored=0, ignored_pinned=0, spaces=0
+2025-07-10 12:53:52.340 [1] IsReadyToProcessSessionWindows
+2025-07-10 12:53:52.340 [0] GetLastSession synchronously done
+2025-07-10 12:53:52.341 [1] AddKeepAlive: keep_alives=2
+2025-07-10 12:53:52.369 [0] WindowOpened
+2025-07-10 12:53:52.370 [1] OnSpaceAdded: 2131330729
+2025-07-10 12:53:52.370 [1] OnActiveSpaceChanged
+2025-07-10 12:53:52.370 [2] AddKeepAlive: keep_alives=3
+2025-07-10 12:53:52.370 [1] RestoreSpaces
+2025-07-10 12:53:52.372 [1] OnTabInsertedAt: tabs=1, pinned=0, space=2131330729
+2025-07-10 12:53:52.374 [1] OnTabInsertedAt: tabs=2, pinned=0, space=2131330729
+2025-07-10 12:53:52.375 [1] OnTabInsertedAt: tabs=3, pinned=0, space=2131330729
+2025-07-10 12:53:52.375 [1] OnTabInsertedAt: tabs=4, pinned=0, space=2131330729
+2025-07-10 12:53:52.376 [1] OnTabInsertedAt: tabs=5, pinned=0, space=2131330729
+2025-07-10 12:53:52.377 [1] OnTabInsertedAt: tabs=6, pinned=0, space=2131330729
+2025-07-10 12:53:52.378 [1] OnTabInsertedAt: tabs=7, pinned=0, space=2131330729
+2025-07-10 12:53:52.380 [1] OnTabInsertedAt: tabs=8, pinned=0, space=2131330729
+2025-07-10 12:53:52.382 [1] OnTabInsertedAt: tabs=9, pinned=0, space=2131330729
+2025-07-10 12:53:52.383 [1] OnTabInsertedAt: tabs=10, pinned=0, space=2131330729
+2025-07-10 12:53:52.384 [1] OnTabInsertedAt: tabs=11, pinned=0, space=2131330729
+2025-07-10 12:53:52.385 [1] OnTabInsertedAt: tabs=12, pinned=0, space=2131330729
+2025-07-10 12:53:52.386 [1] OnTabInsertedAt: tabs=13, pinned=0, space=2131330729
+2025-07-10 12:53:52.387 [1] OnTabInsertedAt: tabs=14, pinned=0, space=2131330729
+2025-07-10 12:53:52.388 [1] OnTabInsertedAt: tabs=15, pinned=0, space=2131330729
+2025-07-10 12:53:52.389 [1] OnTabInsertedAt: tabs=16, pinned=0, space=2131330729
+2025-07-10 12:53:52.392 [1] OnTabInsertedAt: tabs=17, pinned=0, space=2131330729
+2025-07-10 12:53:52.393 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.395 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.395 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.399 [0] ActiveTabChanged
+2025-07-10 12:53:52.410 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.410 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.414 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.414 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.419 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.419 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.421 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.421 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.424 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.424 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.426 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.426 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.429 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.429 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.432 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.432 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.434 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.434 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.436 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.436 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.438 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.438 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.439 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.439 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.441 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.441 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.444 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.444 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.446 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.446 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.447 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.447 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.448 [1] OnTabReplacedAt: tabs=18, pinned=0
+2025-07-10 12:53:52.448 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131330729
+2025-07-10 12:53:52.452 [0] Session restored
+2025-07-10 12:53:52.452 [0] OnWindowsAndTabsRestored
+2025-07-10 12:53:52.452 [0] Launch
+2025-07-10 12:53:52.471 [1] RemoveKeepAlive: keep_alives=2
+2025-07-10 12:54:46.421 [1675] AppendCommandsWithReset
+2025-07-10 12:54:46.421 [0] TruncateOrOpenFile
+2025-07-10 12:54:46.421 [0] OpenAndWriteHeader
+2025-07-10 12:54:46.421 [0] OpenAndWriteHeader done
+2025-07-10 12:54:46.421 [0] TruncateOrOpenFile done
+2025-07-10 12:54:46.431 [18] AddKeepAlive: keep_alives=3
+2025-07-10 12:54:46.431 [22] AddKeepAlive: keep_alives=4
+2025-07-10 12:54:46.432 [22] RemoveKeepAlive: keep_alives=3
+2025-07-10 12:54:46.784 [18] RemoveKeepAlive: keep_alives=2
+2025-07-10 12:54:57.765 [2] AppendCommands
+2025-07-10 12:55:51.699 [2] AppendCommands
+2025-07-10 12:55:55.265 [1] AppendCommands
+2025-07-10 12:55:55.272 [0] Flush done
+2025-07-10 12:56:05.163 [2] AppendCommands
+2025-07-10 12:56:29.495 [3] AppendCommands
+2025-07-10 12:56:44.692 [2] AppendCommands
+2025-07-10 12:57:02.664 [2] AppendCommands
+2025-07-10 12:57:02.669 [0] Flush done
+2025-07-10 12:57:08.940 [2] AppendCommands
+2025-07-10 12:57:50.547 [8] ActiveTabChanged
+2025-07-10 12:57:51.225 [5] AppendCommands
+2025-07-10 12:57:53.789 [5] AppendCommands
+2025-07-10 12:57:59.547 [1] AppendCommands
+2025-07-10 12:58:04.003 [7] AppendCommands
+2025-07-10 12:58:06.440 [3] AppendCommands
+2025-07-10 12:58:06.446 [0] Flush done
+2025-07-10 12:58:10.378 [1] AppendCommands
+2025-07-10 12:58:28.982 [2] AppendCommands
+2025-07-10 12:58:51.023 [1] AppendCommands
+2025-07-10 12:58:55.778 [1] AppendCommands
+2025-07-10 12:59:07.882 [0] Flush done
+2025-07-10 12:59:21.153 [1] AppendCommands
+2025-07-10 12:59:23.930 [1] AppendCommands
+2025-07-10 12:59:32.762 [4] AppendCommands
+2025-07-10 12:59:35.865 [3] AppendCommands
+2025-07-10 12:59:40.225 [3] AppendCommands
+2025-07-10 12:59:43.553 [6] AppendCommands
+2025-07-10 12:59:46.304 [3] AppendCommands
+2025-07-10 12:59:49.735 [3] AppendCommands
+2025-07-10 12:59:52.271 [1] AppendCommands
+2025-07-10 12:59:55.473 [3] AppendCommands
+2025-07-10 12:59:58.895 [1] AppendCommands
+2025-07-10 13:00:04.836 [3] AppendCommands
+2025-07-10 13:00:08.382 [1] AppendCommands
+2025-07-10 13:00:11.889 [4] AppendCommands
+2025-07-10 13:00:17.488 [1] AppendCommands
+2025-07-10 13:00:18.653 [1] AppendCommands
+2025-07-10 13:00:18.659 [0] Flush done
+2025-07-10 13:00:21.765 [1] AppendCommands
+2025-07-10 13:00:24.701 [1] AppendCommands
+2025-07-10 13:00:31.294 [1] AppendCommands
+2025-07-10 13:00:33.804 [3] AppendCommands
+2025-07-10 13:00:38.184 [3] AppendCommands
+2025-07-10 13:00:41.855 [3] AppendCommands
+2025-07-10 13:00:45.072 [1] AppendCommands
+2025-07-10 13:01:00.160 [2] AppendCommands
+2025-07-10 13:01:09.721 [1] AppendCommands
+2025-07-10 13:01:12.408 [2] AppendCommands
+2025-07-10 13:01:15.934 [2] AppendCommands
+2025-07-10 13:01:19.269 [0] Flush done
+2025-07-10 13:01:24.747 [1] AppendCommands
+2025-07-10 13:01:31.307 [4] AppendCommands
+2025-07-10 13:01:43.515 [3] AppendCommands
+2025-07-10 13:01:46.020 [1] AppendCommands
+2025-07-10 13:01:49.647 [1] AppendCommands
+2025-07-10 13:02:04.727 [1] AppendCommands
+2025-07-10 13:02:17.463 [1] AppendCommands
+2025-07-10 13:02:22.252 [0] Flush done
+2025-07-10 13:03:07.300 [2] AppendCommands
+2025-07-10 13:03:43.135 [2] AppendCommands
+2025-07-10 13:03:52.821 [1] AppendCommands
+2025-07-10 13:03:56.139 [1] AppendCommands
+2025-07-10 13:04:04.806 [0] Flush done
+2025-07-10 13:04:21.258 [2] AppendCommands
+2025-07-10 13:04:27.897 [2] AppendCommands
+2025-07-10 13:05:13.134 [0] ActiveTabChanged
+2025-07-10 13:05:13.592 [3] AppendCommands
+2025-07-10 13:05:18.763 [0] Flush done
+2025-07-10 13:05:26.199 [2] AppendCommands
+2025-07-10 13:05:29.997 [1] AppendCommands
+2025-07-10 13:05:39.565 [2] AppendCommands
+2025-07-10 13:05:48.131 [8] ActiveTabChanged
+2025-07-10 13:05:48.434 [3] AppendCommands
+2025-07-10 13:05:55.737 [3] AppendCommands
+2025-07-10 13:06:01.564 [1] AppendCommands
+2025-07-10 13:06:17.502 [1] AppendCommands
+2025-07-10 13:06:23.699 [4] AppendCommands
+2025-07-10 13:06:23.705 [0] Flush done
+2025-07-10 13:06:27.954 [4] AppendCommands
+2025-07-10 13:06:31.852 [1] AppendCommands
+2025-07-10 13:07:25.459 [0] Flush done
+2025-07-10 13:07:51.180 [16] ActiveTabChanged
+2025-07-10 13:07:52.502 [5] AppendCommands
+2025-07-10 13:07:55.950 [1] AppendCommands
+2025-07-10 13:08:01.530 [2] AppendCommands
+2025-07-10 13:08:24.766 [1] AppendCommands
+2025-07-10 13:08:33.838 [3] AppendCommands
+2025-07-10 13:08:38.210 [1] AppendCommands
+2025-07-10 13:08:50.009 [0] Flush done
+2025-07-10 13:09:02.072 [2] AppendCommands
+2025-07-10 13:09:05.278 [4] AppendCommands
+2025-07-10 13:09:14.757 [0] ActiveTabChanged
+2025-07-10 13:09:15.357 [3] AppendCommands
+2025-07-10 13:09:59.571 [1] AppendCommands
+2025-07-10 13:09:59.577 [0] Flush done
+2025-07-10 13:10:05.223 [1] AppendCommands
+2025-07-10 13:10:17.890 [1] AppendCommands
+2025-07-10 13:10:21.421 [1] AppendCommands
+2025-07-10 13:10:32.037 [1] AppendCommands
+2025-07-10 13:10:34.815 [1] AppendCommands
+2025-07-10 13:10:38.551 [1] AppendCommands
+2025-07-10 13:10:55.316 [1] AppendCommands
+2025-07-10 13:11:02.729 [0] Flush done
+2025-07-10 13:12:10.599 [1] AppendCommands
+2025-07-10 13:13:08.104 [0] Flush done
+2025-07-10 13:17:08.388 [0] Session Log Truncated
+2025-07-10 13:17:08.388 [0] InitSessionLog done
+2025-07-10 13:17:08.388 [1] New session 25.4.1.1213 (spaces: 1)
+2025-07-10 13:17:08.388 [1] SetRestoreAfterCrash
+2025-07-10 13:17:08.388 [0] ClearPendingCommands
+2025-07-10 13:17:08.390 [0] RegisterProfile background mode
+2025-07-10 13:17:08.396 [1] OpenTabsInBrowser
+2025-07-10 13:17:08.396 [0] ReadLastSessionCommands
+2025-07-10 13:17:08.397 [7]   SessionState (9)
+2025-07-10 13:17:08.397 [0]     13396625686421333: 1918
+2025-07-10 13:17:08.397 [0]     13396625088889370: 1857
+2025-07-10 13:17:08.397 [0]     13396624210124882: 1940
+2025-07-10 13:17:08.397 [0]     13396623385301044: 2271
+2025-07-10 13:17:08.397 [0]     13396622801892750: 1570
+2025-07-10 13:17:08.397 [0]     13396622733735115: 357
+2025-07-10 13:17:08.397 [0]     13396622663552418: 1259
+2025-07-10 13:17:08.397 [0]     13396622211759893: 456
+2025-07-10 13:17:08.397 [0]     13396622176446611: 349
+2025-07-10 13:17:08.397 [1]   Init
+2025-07-10 13:17:08.398 [0]   Init done
+2025-07-10 13:17:08.398 [0]   ReadCommandsFromFile
+2025-07-10 13:17:08.399 [0]   ReadCommandsFromFile done: 1918 (1854)
+2025-07-10 13:17:08.399 [0] ReadLastSessionCommands done
+2025-07-10 13:17:08.399 [1] AddKeepAlive: keep_alives=2
+2025-07-10 13:17:08.427 [0] WindowOpened
+2025-07-10 13:17:08.427 [1] OnSpaceAdded: 2131331008
+2025-07-10 13:17:08.427 [1] OnActiveSpaceChanged
+2025-07-10 13:17:08.430 [1] OnTabInsertedAt: tabs=1, pinned=0, space=2131331008
+2025-07-10 13:17:08.432 [0] ActiveTabChanged
+2025-07-10 13:17:08.441 [1] AddKeepAlive: keep_alives=2
+2025-07-10 13:17:08.441 [0] Request last session windows
+2025-07-10 13:17:08.441 [0] ReadLastSessionCommands
+2025-07-10 13:17:08.441 [0]   ReadCommandsFromFile
+2025-07-10 13:17:08.445 [0]   ReadCommandsFromFile done: 1918 (1854)
+2025-07-10 13:17:08.445 [0] ReadLastSessionCommands done
+2025-07-10 13:17:08.445 [1] GetLastSession asynchronously
+2025-07-10 13:17:08.445 [0] Launch
+2025-07-10 13:17:08.505 [2] AddKeepAlive: keep_alives=3
+2025-07-10 13:17:08.525 [0] OnGotSession: windows=1, tabs=18, pinned=0, ignored=0, ignored_pinned=0, spaces=1
+2025-07-10 13:17:08.525 [0] IsReadyToProcessSessionWindows
+2025-07-10 13:17:08.553 [0] OnGotSession(apps): windows=0, tabs=0, pinned=0, ignored=0, ignored_pinned=0, spaces=0
+2025-07-10 13:17:08.553 [1] IsReadyToProcessSessionWindows
+2025-07-10 13:17:08.553 [1] RestoreSpaces
+2025-07-10 13:17:08.555 [1] OnTabInsertedAt: tabs=2, pinned=0, space=2131331008
+2025-07-10 13:17:08.556 [1] ActiveTabChanged
+2025-07-10 13:17:08.560 [1] OnTabInsertedAt: tabs=3, pinned=0, space=2131331008
+2025-07-10 13:17:08.561 [1] OnTabInsertedAt: tabs=4, pinned=0, space=2131331008
+2025-07-10 13:17:08.563 [1] OnTabInsertedAt: tabs=5, pinned=0, space=2131331008
+2025-07-10 13:17:08.564 [1] OnTabInsertedAt: tabs=6, pinned=0, space=2131331008
+2025-07-10 13:17:08.565 [1] OnTabInsertedAt: tabs=7, pinned=0, space=2131331008
+2025-07-10 13:17:08.566 [1] OnTabInsertedAt: tabs=8, pinned=0, space=2131331008
+2025-07-10 13:17:08.568 [1] OnTabInsertedAt: tabs=9, pinned=0, space=2131331008
+2025-07-10 13:17:08.570 [1] OnTabInsertedAt: tabs=10, pinned=0, space=2131331008
+2025-07-10 13:17:08.571 [1] OnTabInsertedAt: tabs=11, pinned=0, space=2131331008
+2025-07-10 13:17:08.572 [1] OnTabInsertedAt: tabs=12, pinned=0, space=2131331008
+2025-07-10 13:17:08.573 [1] OnTabInsertedAt: tabs=13, pinned=0, space=2131331008
+2025-07-10 13:17:08.574 [1] OnTabInsertedAt: tabs=14, pinned=0, space=2131331008
+2025-07-10 13:17:08.575 [1] OnTabInsertedAt: tabs=15, pinned=0, space=2131331008
+2025-07-10 13:17:08.577 [1] OnTabInsertedAt: tabs=16, pinned=0, space=2131331008
+2025-07-10 13:17:08.578 [1] OnTabInsertedAt: tabs=17, pinned=0, space=2131331008
+2025-07-10 13:17:08.579 [1] OnTabInsertedAt: tabs=18, pinned=0, space=2131331008
+2025-07-10 13:17:08.580 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.582 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.582 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.583 [1] ActiveTabChanged
+2025-07-10 13:17:08.596 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.596 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.600 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.600 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.602 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.602 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.603 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.603 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.605 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.605 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.606 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.606 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.607 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.607 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.610 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.610 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.611 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.611 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.612 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.612 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.613 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.613 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.614 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.614 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.616 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.616 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.618 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.618 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.619 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.619 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.620 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.620 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.621 [1] OnTabReplacedAt: tabs=19, pinned=0
+2025-07-10 13:17:08.621 [1] OnTabInsertedAt: tabs=19, pinned=0, space=2131331008
+2025-07-10 13:17:08.622 [1] OnTabClosing: tabs=18, pinned=0, space=0
+2025-07-10 13:17:08.622 [0] OnTabDetached
+2025-07-10 13:17:08.623 [0] SetRestoreAfterCrash
+2025-07-10 13:17:08.623 [0] Session restored
+2025-07-10 13:17:08.623 [0] ScheduleResetCommands
+2025-07-10 13:17:08.623 [0] ClearPendingCommands
+2025-07-10 13:17:08.623 [18] BuildCommandsForBrowser
+2025-07-10 13:17:08.626 [0] OnWindowsAndTabsRestored
+2025-07-10 13:17:08.644 [1] RemoveKeepAlive: keep_alives=2
+2025-07-10 13:18:40.798 [218] AppendCommandsWithReset
+2025-07-10 13:18:40.798 [0] TruncateOrOpenFile
+2025-07-10 13:18:40.798 [0] OpenAndWriteHeader
+2025-07-10 13:18:40.798 [0] OpenAndWriteHeader done
+2025-07-10 13:18:40.798 [0] TruncateOrOpenFile done
+2025-07-10 13:18:40.811 [18] AddKeepAlive: keep_alives=3
+2025-07-10 13:18:40.811 [22] AddKeepAlive: keep_alives=4
+2025-07-10 13:18:40.817 [22] RemoveKeepAlive: keep_alives=3
+2025-07-10 13:18:41.175 [18] RemoveKeepAlive: keep_alives=2
+2025-07-11 13:11:52.106 [1] AppendCommands
+2025-07-11 13:12:20.272 [1] OnTabClosing: tabs=17, pinned=0, space=0
+2025-07-11 13:12:20.272 [0] OnTabDetached
+2025-07-11 13:12:20.714 [1] OnTabClosing: tabs=16, pinned=0, space=0
+2025-07-11 13:12:20.714 [0] OnTabDetached
+2025-07-11 13:12:21.141 [1] OnTabClosing: tabs=15, pinned=0, space=0
+2025-07-11 13:12:21.141 [0] OnTabDetached
+2025-07-11 13:12:21.560 [1] OnTabClosing: tabs=14, pinned=0, space=0
+2025-07-11 13:12:21.560 [0] OnTabDetached
+2025-07-11 13:12:21.560 [250] Optimize session
+2025-07-11 13:12:21.560 [0] ScheduleResetCommands
+2025-07-11 13:12:21.560 [249] ClearPendingCommands
+2025-07-11 13:12:21.560 [14] BuildCommandsForBrowser
+2025-07-11 13:12:22.352 [1] OnTabClosing: tabs=13, pinned=0, space=0
+2025-07-11 13:12:22.352 [0] OnTabDetached
+2025-07-11 13:12:22.772 [298] AppendCommandsWithReset
+2025-07-11 13:12:22.772 [0] TruncateOrOpenFile
+2025-07-11 13:12:22.772 [0] OpenAndWriteHeader
+2025-07-11 13:12:22.772 [0] OpenAndWriteHeader done
+2025-07-11 13:12:22.772 [0] TruncateOrOpenFile done
+2025-07-11 13:12:22.849 [1] OnTabClosing: tabs=12, pinned=0, space=0
+2025-07-11 13:12:22.849 [0] OnTabDetached
+2025-07-11 13:12:23.275 [1] OnTabClosing: tabs=11, pinned=0, space=0
+2025-07-11 13:12:23.275 [0] OnTabDetached
+2025-07-11 13:12:23.718 [1] OnTabClosing: tabs=10, pinned=0, space=0
+2025-07-11 13:12:23.718 [0] OnTabDetached
+2025-07-11 13:12:24.137 [1] OnTabClosing: tabs=9, pinned=0, space=0
+2025-07-11 13:12:24.137 [0] OnTabDetached
+2025-07-11 13:12:24.285 [6] ActiveTabChanged
+2025-07-11 13:12:24.914 [1] OnTabClosing: tabs=8, pinned=0, space=0
+2025-07-11 13:12:24.914 [0] OnTabDetached
+2025-07-11 13:12:24.914 [250] Optimize session
+2025-07-11 13:12:24.914 [0] ScheduleResetCommands
+2025-07-11 13:12:24.914 [250] ClearPendingCommands
+2025-07-11 13:12:24.914 [8] BuildCommandsForBrowser
+2025-07-11 13:12:24.922 [6] ActiveTabChanged
+2025-07-11 13:12:25.349 [113] AppendCommandsWithReset
+2025-07-11 13:12:25.349 [0] TruncateOrOpenFile
+2025-07-11 13:12:25.349 [0] OpenAndWriteHeader
+2025-07-11 13:12:25.349 [0] OpenAndWriteHeader done
+2025-07-11 13:12:25.349 [0] TruncateOrOpenFile done
+2025-07-11 13:12:25.427 [1] OnTabClosing: tabs=7, pinned=0, space=0
+2025-07-11 13:12:25.427 [0] OnTabDetached
+2025-07-11 13:12:25.436 [6] ActiveTabChanged
+2025-07-11 13:12:25.877 [1] OnTabClosing: tabs=6, pinned=0, space=0
+2025-07-11 13:12:25.877 [0] OnTabDetached
+2025-07-11 13:12:25.884 [5] ActiveTabChanged
+2025-07-11 13:12:26.382 [1] OnTabClosing: tabs=5, pinned=0, space=0
+2025-07-11 13:12:26.382 [0] OnTabDetached
+2025-07-11 13:12:26.389 [4] ActiveTabChanged
+2025-07-11 13:12:26.910 [1] OnTabClosing: tabs=4, pinned=0, space=0
+2025-07-11 13:12:26.910 [0] OnTabDetached
+2025-07-11 13:12:26.916 [3] ActiveTabChanged
+2025-07-11 13:12:27.928 [129] AppendCommands
+2025-07-11 13:12:28.853 [1] OnTabClosing: tabs=3, pinned=0, space=0
+2025-07-11 13:12:28.853 [0] OnTabDetached
+2025-07-11 13:12:28.860 [2] ActiveTabChanged
+2025-07-11 13:12:30.566 [23] AppendCommands
+2025-07-11 13:12:35.306 [1] OnTabInsertedAt: tabs=4, pinned=0, space=2131331008
+2025-07-11 13:12:35.308 [3] ActiveTabChanged
+2025-07-11 13:12:37.807 [15] AppendCommands
+2025-07-11 13:12:42.098 [1] OnTabInsertedAt: tabs=5, pinned=0, space=2131331008
+2025-07-11 13:12:42.099 [4] ActiveTabChanged
+2025-07-11 13:12:43.387 [1] OnTabClosing: tabs=4, pinned=0, space=0
+2025-07-11 13:12:43.387 [0] OnTabDetached
+2025-07-11 13:12:44.598 [37] AppendCommands
+2025-07-11 13:12:45.564 [1] OnTabInsertedAt: tabs=5, pinned=0, space=2131331008
+2025-07-11 13:12:45.567 [4] ActiveTabChanged
+2025-07-11 13:12:46.855 [1] OnTabClosing: tabs=4, pinned=0, space=0
+2025-07-11 13:12:46.855 [0] OnTabDetached
+2025-07-11 13:12:47.430 [44] AppendCommands
+2025-07-11 13:12:48.490 [1] OnTabClosing: tabs=3, pinned=0, space=0
+2025-07-11 13:12:48.490 [251] Optimize session
+2025-07-11 13:12:48.490 [0] ScheduleResetCommands
+2025-07-11 13:12:48.490 [3] ClearPendingCommands
+2025-07-11 13:12:48.490 [3] BuildCommandsForBrowser
+2025-07-11 13:12:48.491 [0] OnTabDetached
+2025-07-11 13:12:49.606 [59] AppendCommandsWithReset
+2025-07-11 13:12:49.606 [0] TruncateOrOpenFile
+2025-07-11 13:12:49.606 [0] OpenAndWriteHeader
+2025-07-11 13:12:49.606 [0] OpenAndWriteHeader done
+2025-07-11 13:12:49.606 [0] TruncateOrOpenFile done
+2025-07-11 13:12:49.997 [1] OnTabClosing: tabs=2, pinned=0, space=0
+2025-07-11 13:12:49.997 [0] OnTabDetached
+2025-07-11 13:12:50.733 [0] ActiveTabChanged
+2025-07-11 13:12:52.497 [14] AppendCommands
+2025-07-11 13:13:01.154 [4] AppendCommands
+2025-07-11 13:13:07.912 [0] ScheduleResetCommands
+2025-07-11 13:13:07.912 [0] ClearPendingCommands
+2025-07-11 13:13:07.912 [2] BuildCommandsForBrowser
+2025-07-11 13:13:10.413 [42] AppendCommandsWithReset
+2025-07-11 13:13:10.413 [0] TruncateOrOpenFile
+2025-07-11 13:13:10.413 [0] OpenAndWriteHeader
+2025-07-11 13:13:10.413 [0] OpenAndWriteHeader done
+2025-07-11 13:13:10.413 [0] TruncateOrOpenFile done
+2025-07-11 13:13:18.010 [1] AppendCommands
+2025-07-11 13:13:21.090 [1] AppendCommands
+2025-07-11 13:13:23.805 [1] AppendCommands
+2025-07-11 13:13:32.027 [1] AppendCommands
+2025-07-11 13:13:50.003 [0] Flush done
+2025-07-11 13:14:19.636 [1] AppendCommands
+2025-07-11 13:15:17.140 [0] Flush done
+2025-07-11 13:15:40.026 [4] AppendCommands
+2025-07-11 13:15:54.452 [3] AppendCommands
+2025-07-11 13:16:05.354 [1] AppendCommands
+2025-07-11 13:16:26.277 [1] AppendCommands
+2025-07-11 13:16:37.532 [0] Flush done
+2025-07-11 13:17:53.071 [4] AppendCommands
+2025-07-11 13:18:22.080 [2] AppendCommands
+2025-07-11 13:18:24.441 [0] OpenURLFromTab
+2025-07-11 13:18:24.443 [1] OnTabInsertedAt: tabs=3, pinned=0, space=2131331008
+2025-07-11 13:18:24.443 [2] ActiveTabChanged
+2025-07-11 13:18:26.943 [16] AppendCommands
+2025-07-11 13:18:29.684 [2] AppendCommands
+2025-07-11 13:18:39.667 [1] ActiveTabChanged
+2025-07-11 13:18:41.112 [3] AppendCommands
+2025-07-11 13:18:46.170 [4] AppendCommands
+2025-07-11 13:18:48.791 [1] AppendCommands
+2025-07-11 13:18:50.572 [1] AppendCommands
+2025-07-11 13:18:50.578 [0] Flush done
+2025-07-11 13:18:54.837 [1] AppendCommands
+2025-07-11 13:18:57.445 [0] ScheduleResetCommands
+2025-07-11 13:18:57.445 [1] ClearPendingCommands
+2025-07-11 13:18:57.445 [3] BuildCommandsForBrowser
+2025-07-11 13:18:57.912 [51] AppendCommandsWithReset
+2025-07-11 13:18:57.913 [0] TruncateOrOpenFile
+2025-07-11 13:18:57.913 [0] OpenAndWriteHeader
+2025-07-11 13:18:57.913 [0] OpenAndWriteHeader done
+2025-07-11 13:18:57.913 [0] TruncateOrOpenFile done
+2025-07-11 13:19:01.895 [0] ScheduleResetCommands
+2025-07-11 13:19:01.895 [4] ClearPendingCommands
+2025-07-11 13:19:01.895 [3] BuildCommandsForBrowser
+2025-07-11 13:19:01.928 [50] AppendCommandsWithReset
+2025-07-11 13:19:01.929 [0] TruncateOrOpenFile
+2025-07-11 13:19:01.929 [0] OpenAndWriteHeader
+2025-07-11 13:19:01.929 [0] OpenAndWriteHeader done
+2025-07-11 13:19:01.929 [0] TruncateOrOpenFile done
+2025-07-11 13:19:05.490 [3] AppendCommands
+2025-07-11 13:19:08.389 [1] AppendCommands
+2025-07-11 13:19:45.420 [2] AppendCommands
+2025-07-11 13:19:52.338 [1] AppendCommands
+2025-07-11 13:19:52.344 [0] Flush done
+2025-07-11 13:19:55.920 [6] AppendCommands
+2025-07-11 13:19:56.305 [0] ScheduleResetCommands
+2025-07-11 13:19:56.305 [1] ClearPendingCommands
+2025-07-11 13:19:56.305 [3] BuildCommandsForBrowser
+2025-07-11 13:19:58.805 [54] AppendCommandsWithReset
+2025-07-11 13:19:58.805 [0] TruncateOrOpenFile
+2025-07-11 13:19:58.805 [0] OpenAndWriteHeader
+2025-07-11 13:19:58.805 [0] OpenAndWriteHeader done
+2025-07-11 13:19:58.805 [0] TruncateOrOpenFile done
+2025-07-11 13:20:02.866 [1] AppendCommands
+2025-07-11 13:20:53.425 [0] Flush done
+2025-07-11 13:22:26.536 [2] AppendCommands
+2025-07-11 13:22:47.253 [0] ScheduleResetCommands
+2025-07-11 13:22:47.253 [1] ClearPendingCommands
+2025-07-11 13:22:47.253 [3] BuildCommandsForBrowser
+2025-07-11 13:22:47.261 [51] AppendCommandsWithReset
+2025-07-11 13:22:47.261 [0] TruncateOrOpenFile
+2025-07-11 13:22:47.261 [0] OpenAndWriteHeader
+2025-07-11 13:22:47.261 [0] OpenAndWriteHeader done
+2025-07-11 13:22:47.261 [0] TruncateOrOpenFile done
+2025-07-11 13:22:49.869 [2] AppendCommands
+2025-07-11 13:22:58.294 [1] AppendCommands
+2025-07-11 13:23:01.408 [1] AppendCommands
+2025-07-11 13:23:03.984 [1] AppendCommands
+2025-07-11 13:23:24.040 [0] Flush done
+2025-07-11 13:23:30.104 [1] AppendCommands
+2025-07-11 13:23:32.970 [1] AppendCommands
+2025-07-11 13:23:40.036 [1] AppendCommands
+2025-07-11 13:23:50.451 [1] AppendCommands
+2025-07-11 13:23:53.092 [1] AppendCommands
+2025-07-11 13:23:58.116 [1] AppendCommands
+2025-07-11 13:24:01.366 [1] AppendCommands
+2025-07-11 13:24:14.530 [1] AppendCommands
+2025-07-11 13:24:27.610 [0] Flush done
+2025-07-11 13:26:26.952 [0] InitSessionLog done
+2025-07-11 13:26:26.952 [1] New session 25.4.1.1213 (spaces: 1)
+2025-07-11 13:26:26.953 [0] ScheduleResetCommands
+2025-07-11 13:26:26.953 [0] ClearPendingCommands
+2025-07-11 13:26:26.961 [0] RegisterProfile background mode
+2025-07-11 13:26:26.982 [1] AddKeepAlive: keep_alives=2
+2025-07-11 13:26:26.982 [0] Request last session windows
+2025-07-11 13:26:26.982 [0] ReadLastSessionCommands
+2025-07-11 13:26:26.982 [3]   SessionState (11)
+2025-07-11 13:26:26.982 [0]     13396713767261408: 204
+2025-07-11 13:26:26.982 [0]     13396713598805828: 175
+2025-07-11 13:26:26.982 [0]     13396625686421333: 1918
+2025-07-11 13:26:26.982 [0]     13396625088889370: 1857
+2025-07-11 13:26:26.982 [0]     13396624210124882: 1940
+2025-07-11 13:26:26.982 [0]     13396623385301044: 2271
+2025-07-11 13:26:26.982 [0]     13396622801892750: 1570
+2025-07-11 13:26:26.982 [0]     13396622733735115: 357
+2025-07-11 13:26:26.982 [0]     13396622663552418: 1259
+2025-07-11 13:26:26.982 [0]     13396622211759893: 456
+2025-07-11 13:26:26.982 [0]     13396622176446611: 349
+2025-07-11 13:26:26.982 [1]   Init
+2025-07-11 13:26:27.002 [0]   Init done
+2025-07-11 13:26:27.002 [0]   ReadCommandsFromFile
+2025-07-11 13:26:27.002 [0]   ReadCommandsFromFile done: 204 (64)
+2025-07-11 13:26:27.002 [0] ReadLastSessionCommands done
+2025-07-11 13:26:27.002 [1] GetLastSession synchronously
+2025-07-11 13:26:27.048 [0] OnGotSession: windows=1, tabs=3, pinned=0, ignored=0, ignored_pinned=0, spaces=1
+2025-07-11 13:26:27.048 [0] IsReadyToProcessSessionWindows
+2025-07-11 13:26:27.071 [0] OnGotSession(apps): windows=0, tabs=0, pinned=0, ignored=0, ignored_pinned=0, spaces=0
+2025-07-11 13:26:27.071 [1] IsReadyToProcessSessionWindows
+2025-07-11 13:26:27.071 [0] GetLastSession synchronously done
+2025-07-11 13:26:27.073 [1] AddKeepAlive: keep_alives=2
+2025-07-11 13:26:27.120 [0] WindowOpened
+2025-07-11 13:26:27.120 [1] OnSpaceAdded: 2131331492
+2025-07-11 13:26:27.120 [1] OnActiveSpaceChanged
+2025-07-11 13:26:27.120 [2] AddKeepAlive: keep_alives=3
+2025-07-11 13:26:27.121 [1] RestoreSpaces
+2025-07-11 13:26:27.125 [1] OnTabInsertedAt: tabs=1, pinned=0, space=2131331492
+2025-07-11 13:26:27.127 [1] OnTabInsertedAt: tabs=2, pinned=0, space=2131331492
+2025-07-11 13:26:27.128 [1] OnTabInsertedAt: tabs=3, pinned=0, space=2131331492
+2025-07-11 13:26:27.131 [1] OnTabReplacedAt: tabs=3, pinned=0
+2025-07-11 13:26:27.131 [1] OnTabInsertedAt: tabs=3, pinned=0, space=2131331492
+2025-07-11 13:26:27.137 [1] OnTabReplacedAt: tabs=3, pinned=0
+2025-07-11 13:26:27.137 [1] OnTabInsertedAt: tabs=3, pinned=0, space=2131331492
+2025-07-11 13:26:27.142 [1] ActiveTabChanged
+2025-07-11 13:26:27.154 [1] OnTabReplacedAt: tabs=3, pinned=0
+2025-07-11 13:26:27.154 [1] OnTabInsertedAt: tabs=3, pinned=0, space=2131331492
+2025-07-11 13:26:27.163 [0] Session restored
+2025-07-11 13:26:27.163 [0] OnWindowsAndTabsRestored
+2025-07-11 13:26:27.163 [0] Launch
+2025-07-11 13:26:27.181 [1] RemoveKeepAlive: keep_alives=2
+2025-07-11 13:26:31.283 [203] AppendCommandsWithReset
+2025-07-11 13:26:31.283 [0] TruncateOrOpenFile
+2025-07-11 13:26:31.283 [0] OpenAndWriteHeader
+2025-07-11 13:26:31.283 [0] OpenAndWriteHeader done
+2025-07-11 13:26:31.283 [0] TruncateOrOpenFile done
+2025-07-11 13:26:31.293 [18] AddKeepAlive: keep_alives=3
+2025-07-11 13:26:31.293 [22] AddKeepAlive: keep_alives=4
+2025-07-11 13:26:31.294 [22] RemoveKeepAlive: keep_alives=3
+2025-07-11 13:26:32.485 [24] AddKeepAlive: keep_alives=4
+2025-07-11 13:26:32.634 [24] RemoveKeepAlive: keep_alives=3
+2025-07-11 13:26:32.634 [18] RemoveKeepAlive: keep_alives=2
+2025-07-11 13:26:33.791 [1] AppendCommands
+2025-07-11 13:26:37.123 [1] AppendCommands
+2025-07-11 13:26:40.976 [1] AppendCommands
+2025-07-11 13:26:44.080 [1] AppendCommands
+2025-07-11 13:26:47.969 [2] AppendCommands
+2025-07-11 13:26:50.554 [1] AppendCommands
+2025-07-11 13:27:21.432 [2] AppendCommands
+2025-07-11 13:27:24.854 [0] ActiveTabChanged
+2025-07-11 13:27:25.967 [8] AppendCommands
+2025-07-11 13:27:28.595 [1] AppendCommands
+2025-07-11 13:27:31.291 [8] AppendCommands
+2025-07-11 13:27:31.293 [0] Flush done
+2025-07-11 13:27:34.077 [1] AppendCommands
+2025-07-11 13:27:37.813 [1] AppendCommands
+2025-07-11 13:27:47.869 [1] AppendCommands
+2025-07-11 13:27:53.783 [1] AppendCommands
+2025-07-11 13:28:00.460 [3] AppendCommands
+2025-07-11 13:28:31.583 [0] Flush done
+2025-07-11 13:30:29.647 [1] AppendCommands
+2025-07-11 13:30:39.699 [1] AppendCommands
+2025-07-11 13:30:51.291 [1] AppendCommands
+2025-07-11 13:31:21.595 [1] AppendCommands
+2025-07-11 13:31:27.153 [0] Flush done
+2025-07-11 13:31:33.833 [2] AppendCommands
+2025-07-11 13:31:36.783 [1] AppendCommands
+2025-07-11 13:31:54.947 [1] AppendCommands
+2025-07-11 13:31:58.510 [2] AppendCommands
+2025-07-11 13:32:31.333 [0] Flush done
+2025-07-11 13:32:51.553 [1] AppendCommands
+2025-07-11 13:32:54.349 [3] AppendCommands
+2025-07-11 13:33:11.860 [1] AppendCommands
+2025-07-11 13:33:14.701 [2] AppendCommands
+2025-07-11 13:33:36.645 [2] AppendCommands
+2025-07-11 13:33:45.714 [3] AppendCommands
+2025-07-11 13:33:49.058 [0] Flush done
+2025-07-11 13:33:55.801 [2] AppendCommands
+2025-07-11 13:34:12.849 [1] ActiveTabChanged
+2025-07-11 13:34:13.643 [3] AppendCommands
+2025-07-11 13:34:14.110 [2] ActiveTabChanged
+2025-07-11 13:34:16.611 [5] AppendCommands
+2025-07-11 13:34:43.805 [1] AppendCommands
+2025-07-11 13:34:53.306 [0] Flush done
+2025-07-11 13:35:05.510 [1] AppendCommands
+2025-07-11 13:35:12.802 [4] AppendCommands
+2025-07-11 13:35:17.668 [3] AppendCommands
+2025-07-11 13:36:03.015 [0] Flush done
+2025-07-11 13:36:08.429 [2] AppendCommands
+2025-07-11 13:36:11.163 [2] AppendCommands
+2025-07-11 13:36:45.216 [2] AppendCommands
+2025-07-11 13:36:51.693 [2] AppendCommands
+2025-07-11 13:36:59.745 [3] AppendCommands
+2025-07-11 13:37:05.935 [0] Flush done
+2025-07-11 13:37:35.138 [3] AppendCommands

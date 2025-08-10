@@ -1,0 +1,6 @@
+2025/07/09-18:08:16.611 15fd File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_browser.yandex.ru_0.indexeddb.leveldb is locked for recovering successfully
+2025/07/09-18:08:16.611 15fd Creating DB /home/traktor/.config/yandex-browser/Default/IndexedDB/https_browser.yandex.ru_0.indexeddb.leveldb since it was missing.
+2025/07/09-18:08:16.613 15fd Reusing MANIFEST /home/traktor/.config/yandex-browser/Default/IndexedDB/https_browser.yandex.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/09-18:08:18.619 15fd Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_browser.yandex.ru_0.indexeddb.leveldb, waiting for background work finished
+2025/07/09-18:08:18.619 15fd Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_browser.yandex.ru_0.indexeddb.leveldb, background work finished
+2025/07/09-18:08:18.619 15fd File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_browser.yandex.ru_0.indexeddb.leveldb unlocked successfully

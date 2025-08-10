@@ -1,0 +1,4 @@
+2025/07/10-16:18:40.908 5d30 File /home/traktor/.config/yandex-browser/Default/AutofillStrikeDatabase is locked for recovering successfully
+2025/07/10-16:18:40.908 5d30 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/AutofillStrikeDatabase, waiting for background work finished
+2025/07/10-16:18:40.908 5d30 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/AutofillStrikeDatabase, background work finished
+2025/07/10-16:18:40.908 5d30 File /home/traktor/.config/yandex-browser/Default/AutofillStrikeDatabase unlocked successfully

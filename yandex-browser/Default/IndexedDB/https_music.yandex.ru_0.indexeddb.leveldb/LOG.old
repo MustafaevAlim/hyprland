@@ -1,0 +1,7 @@
+2025/07/11-16:34:14.440 595 File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_music.yandex.ru_0.indexeddb.leveldb is locked for recovering successfully
+2025/07/11-16:34:14.441 595 Reusing MANIFEST /home/traktor/.config/yandex-browser/Default/IndexedDB/https_music.yandex.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/11-16:34:14.441 595 Recovering log #3
+2025/07/11-16:34:14.441 595 Reusing old log /home/traktor/.config/yandex-browser/Default/IndexedDB/https_music.yandex.ru_0.indexeddb.leveldb/000003.log 
+2025/07/11-16:34:16.504 595 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_music.yandex.ru_0.indexeddb.leveldb, waiting for background work finished
+2025/07/11-16:34:16.504 595 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_music.yandex.ru_0.indexeddb.leveldb, background work finished
+2025/07/11-16:34:16.504 595 File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_music.yandex.ru_0.indexeddb.leveldb unlocked successfully

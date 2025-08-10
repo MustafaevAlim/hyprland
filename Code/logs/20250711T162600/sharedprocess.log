@@ -1,0 +1,11 @@
+2025-07-11 16:26:01.183 [info] ComputeTargetPlatform: linux-x64
+2025-07-11 16:26:01.293 [info] Deleted marked for removal extension from disk ms-python.python /home/traktor/.vscode/extensions/ms-python.python-2025.8.1-linux-x64
+2025-07-11 16:26:03.298 [info] ComputeTargetPlatform: linux-x64
+2025-07-11 16:26:32.067 [info] Getting Manifest... ms-python.debugpy
+2025-07-11 16:26:32.566 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.102.0","date":"2025-07-09T22:11:02.719Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/traktor/.vscode/extensions/extensions.json","path":"/home/traktor/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-07-11 16:26:32.910 [info] Getting Manifest... ms-python.python
+2025-07-11 16:26:34.388 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 498ms.
+2025-07-11 16:26:34.623 [info] Extracted extension to file:///home/traktor/.vscode/extensions/ms-python.debugpy-2025.10.0-linux-x64: ms-python.debugpy
+2025-07-11 16:26:34.635 [info] Renamed to /home/traktor/.vscode/extensions/ms-python.debugpy-2025.10.0-linux-x64
+2025-07-11 16:26:34.643 [info] Marked extension as removed ms-python.debugpy-2025.8.0-linux-x64
+2025-07-11 16:26:34.646 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/traktor/.vscode/extensions/extensions.json

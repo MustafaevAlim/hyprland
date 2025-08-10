@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<interface>
+  <menu id="power-menu">
+    <item label="Power Off" action="systemctl poweroff"/>
+    <item label="Restart" action="systemctl reboot"/>
+    <item label="Suspend" action="systemctl suspend"/>
+    <item label="Logout" action="hyprctl dispatch exit"/>
+  </menu>
+</interface>

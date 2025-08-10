@@ -1,0 +1,22 @@
+2025/07/10-16:17:08.388 4 File /home/traktor/.config/yandex-browser/Default/Local Storage/leveldb is locked for recovering successfully
+2025/07/10-16:17:08.391 4 Reusing MANIFEST /home/traktor/.config/yandex-browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/07/10-16:17:08.392 4 Recovering log #256
+2025/07/10-16:17:08.392 4 Reusing old log /home/traktor/.config/yandex-browser/Default/Local Storage/leveldb/000256.log 
+2025/07/10-16:17:30.950 5 Level-0 table #260: started
+2025/07/10-16:17:30.960 5 Level-0 table #260: 329407 bytes OK
+2025/07/10-16:17:30.962 5 Delete type=0 #256
+2025/07/10-16:17:30.962 5 Compacting 4@0 + 1@1 files
+2025/07/10-16:17:30.981 5 Generated table #261@0: 592 keys, 1836889 bytes
+2025/07/10-16:17:30.981 5 Compacted 4@0 + 1@1 files => 1836889 bytes
+2025/07/10-16:17:30.982 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/10-16:17:30.982 5 Delete type=2 #252
+2025/07/10-16:17:30.982 5 Delete type=2 #255
+2025/07/10-16:17:30.982 5 Delete type=2 #260
+2025/07/10-16:17:30.982 5 Delete type=2 #250
+2025/07/10-16:17:30.982 5 Delete type=2 #257
+2025/07/11-16:12:28.877 4 Level-0 table #263: started
+2025/07/11-16:12:28.888 4 Level-0 table #263: 990208 bytes OK
+2025/07/11-16:12:28.889 4 Delete type=0 #259
+2025/07/11-16:18:30.479 5 Level-0 table #265: started
+2025/07/11-16:18:30.492 5 Level-0 table #265: 1015387 bytes OK
+2025/07/11-16:18:30.493 5 Delete type=0 #262

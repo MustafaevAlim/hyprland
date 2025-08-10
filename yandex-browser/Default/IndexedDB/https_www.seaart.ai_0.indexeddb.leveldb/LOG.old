@@ -1,0 +1,10 @@
+2025/06/30-00:15:07.644 af66 File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.seaart.ai_0.indexeddb.leveldb is locked for recovering successfully
+2025/06/30-00:15:07.644 af66 Creating DB /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.seaart.ai_0.indexeddb.leveldb since it was missing.
+2025/06/30-00:15:07.647 af66 Reusing MANIFEST /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.seaart.ai_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/30-00:15:07.676 af66 Level-0 table #5: started
+2025/06/30-00:15:07.677 af66 Level-0 table #5: 825 bytes OK
+2025/06/30-00:15:07.679 af66 Delete type=0 #3
+2025/06/30-00:15:07.679 af66 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/30-00:15:15.957 af63 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.seaart.ai_0.indexeddb.leveldb, waiting for background work finished
+2025/06/30-00:15:15.957 af63 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.seaart.ai_0.indexeddb.leveldb, background work finished
+2025/06/30-00:15:15.957 af63 File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.seaart.ai_0.indexeddb.leveldb unlocked successfully

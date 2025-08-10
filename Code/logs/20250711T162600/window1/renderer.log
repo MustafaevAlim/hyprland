@@ -1,0 +1,17 @@
+2025-07-11 16:26:00.487 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-11 16:26:00.498 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-11 16:26:00.499 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-11 16:26:00.797 [info] Started local extension host with pid 1187.
+2025-07-11 16:26:01.093 [info] ComputeTargetPlatform: linux-x64
+2025-07-11 16:26:01.097 [error] Extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-11 16:26:01.773 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-11 16:26:03.307 [error] Error while getting the latest version for the extension ms-python.debugpy from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-07-11 16:26:03.307 [error] Error while getting the latest version for the extension pranaygp.vscode-css-peek from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-07-11 16:26:03.308 [error] Error while getting the latest version for the extension ms-python.python from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-07-11 16:26:03.308 [error] Error while getting the latest version for the extension ms-python.vscode-pylance from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-07-11 16:26:03.310 [error] Error while getting the latest version for the extension ms-python.python. Offline
+2025-07-11 16:26:03.310 [error] Error while getting the latest version for the extension ms-python.vscode-pylance. Offline
+2025-07-11 16:26:03.311 [error] Error while getting the latest version for the extension ms-python.debugpy. Offline
+2025-07-11 16:26:03.311 [error] Error while getting the latest version for the extension pranaygp.vscode-css-peek. Offline
+2025-07-11 16:26:03.460 [info] [perf] Render performance baseline is 13ms
+2025-07-11 16:26:31.063 [info] Auto updating outdated extensions. ms-python.debugpy

@@ -1,0 +1,6 @@
+2025/07/09-12:51:36.441 c21c File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb is locked for recovering successfully
+2025/07/09-12:51:36.441 c21c Creating DB /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2025/07/09-12:51:36.443 c21c Reusing MANIFEST /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/09-12:52:23.008 c219 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb, waiting for background work finished
+2025/07/09-12:52:23.008 c219 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb, background work finished
+2025/07/09-12:52:23.008 c219 File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb unlocked successfully

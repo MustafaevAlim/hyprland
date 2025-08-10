@@ -1,0 +1,6 @@
+2025/07/09-13:01:36.601 c21a File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_tickets.moscow-sun.ru_0.indexeddb.leveldb is locked for recovering successfully
+2025/07/09-13:01:36.601 c21a Creating DB /home/traktor/.config/yandex-browser/Default/IndexedDB/https_tickets.moscow-sun.ru_0.indexeddb.leveldb since it was missing.
+2025/07/09-13:01:36.603 c21a Reusing MANIFEST /home/traktor/.config/yandex-browser/Default/IndexedDB/https_tickets.moscow-sun.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/09-13:01:56.551 c219 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_tickets.moscow-sun.ru_0.indexeddb.leveldb, waiting for background work finished
+2025/07/09-13:01:56.552 c219 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_tickets.moscow-sun.ru_0.indexeddb.leveldb, background work finished
+2025/07/09-13:01:56.552 c219 File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_tickets.moscow-sun.ru_0.indexeddb.leveldb unlocked successfully

@@ -1,0 +1,1 @@
+2025-07-11 16:37:40.082 [error] Failed to set sticky bit on /tmp/traktor-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/traktor-code-zsh'

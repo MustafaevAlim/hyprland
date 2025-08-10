@@ -1,0 +1,4 @@
+2025/06/30-00:37:18.049 af65 File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb is locked for recovering successfully
+2025/06/30-00:37:18.050 af65 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb, waiting for background work finished
+2025/06/30-00:37:18.050 af65 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb, background work finished
+2025/06/30-00:37:18.050 af65 File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb unlocked successfully

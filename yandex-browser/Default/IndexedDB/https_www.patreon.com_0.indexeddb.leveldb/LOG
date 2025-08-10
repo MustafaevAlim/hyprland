@@ -1,0 +1,10 @@
+2025/06/30-00:37:19.087 af63 File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb is locked for recovering successfully
+2025/06/30-00:37:19.087 af63 Creating DB /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb since it was missing.
+2025/06/30-00:37:19.094 af63 Reusing MANIFEST /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/30-00:37:49.748 af6d Level-0 table #5: started
+2025/06/30-00:37:49.750 af6d Level-0 table #5: 3494 bytes OK
+2025/06/30-00:37:49.751 af6d Delete type=0 #3
+2025/06/30-00:37:49.751 af6d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/06/30-00:37:49.751 af66 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb, waiting for background work finished
+2025/06/30-00:37:49.751 af66 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb, background work finished
+2025/06/30-00:37:49.751 af66 File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb unlocked successfully

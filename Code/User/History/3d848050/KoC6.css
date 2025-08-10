@@ -1,0 +1,101 @@
+* {
+    border: none;
+    border-radius: 0px;
+    font-family: "JetBrainsMono Nerd Font", "Font Awesome 6 Free", monospace;
+    font-weight: bold;
+    font-size: 11px;
+    min-height: 0;
+    transition: 0.3s;
+}
+
+window#waybar {
+    background: #1b1c1d; /* Цвет фона панели */
+    color: #1a5ac7;      /* Цвет текста */
+    border: none;
+    border-radius: 0;
+    opacity: 70;
+}
+
+tooltip {
+    background: #1e1e2e;
+    border-radius: 10px;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: #11111b;
+    transition: 0.3s;
+}
+
+#workspaces button {
+    padding: 5px;
+    color: #1a59c7;
+    margin-right: 5px;
+}
+
+#workspaces button.active {
+    color: #1a5ac7;
+}
+
+#workspaces button.focused {
+    color: #1a5ac7;
+    background: #eba0ac;
+    border-radius: 20px;
+}
+
+#workspaces button.urgent {
+    color: #11111b;
+    background: #a6e3a1;
+    border-radius: 20px;
+}
+
+#workspaces button:hover {
+    background: #11111b;
+    color: #1a5ac7;
+    border-radius: 20px;
+}
+
+/* Общие стили для всех модулей */
+#workspaces,
+#clock,
+#battery,
+#network,
+#pulseaudio,
+#bluetooth,
+#temperature,
+#backlight,
+#tray {
+    background: inherit; /* Наследует цвет фона от window#waybar */
+    border: none;
+    border-radius: 0;
+    padding: 0 6px;     /* Небольшой внутренний отступ для текста */
+    margin: 0;          /* Убираем внешние отступы */
+}
+
+/* Убираем разделители */
+#workspaces button,
+#tray > *,
+#clock,
+#battery,
+#network,
+#pulseaudio,
+#bluetooth,
+#temperature,
+#backlight {
+    border: none;
+    box-shadow: none;
+    background: inherit; /* Наследует цвет фона */
+    margin: 0;
+    padding: 0 6px;
+}
+
+#temperature {
+    border-radius: 20px 0px 0px 20px;
+}
+
+#temperature.critical {
+    color: #eba0ac;
+}
+
+#backlight {
+    border-radius: 20px 0px 0px 20px;
+    padding-left: 7px;
+}

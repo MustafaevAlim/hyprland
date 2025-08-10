@@ -1,0 +1,4 @@
+2025/06/30-01:10:07.379 e2db File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_neuro.translate.yandex.ru_0.indexeddb.leveldb is locked for recovering successfully
+2025/06/30-01:10:07.379 e2db Reusing MANIFEST /home/traktor/.config/yandex-browser/Default/IndexedDB/https_neuro.translate.yandex.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/30-01:10:07.379 e2db Recovering log #3
+2025/06/30-01:10:07.380 e2db Reusing old log /home/traktor/.config/yandex-browser/Default/IndexedDB/https_neuro.translate.yandex.ru_0.indexeddb.leveldb/000003.log 

@@ -1,0 +1,13 @@
+2025/07/10-16:17:08.673 5d39 File /home/traktor/.config/yandex-browser/Default/Local Extension Settings/dknfpcdpbkjijldegonllfnnfhabjpde is locked for recovering successfully
+2025/07/10-16:17:08.673 5d39 Reusing MANIFEST /home/traktor/.config/yandex-browser/Default/Local Extension Settings/dknfpcdpbkjijldegonllfnnfhabjpde/MANIFEST-000001
+2025/07/10-16:17:08.673 5d39 Recovering log #91
+2025/07/10-16:17:08.677 5d39 Reusing old log /home/traktor/.config/yandex-browser/Default/Local Extension Settings/dknfpcdpbkjijldegonllfnnfhabjpde/000091.log 
+2025/07/10-16:18:38.675 5d2f Level-0 table #97: started
+2025/07/10-16:18:38.684 5d2f Level-0 table #97: 437561 bytes OK
+2025/07/10-16:18:38.685 5d2f Delete type=0 #91
+2025/07/11-16:12:28.879 5d2f Compacting 1@1 + 1@2 files
+2025/07/11-16:12:28.887 5d2f Generated table #98@1: 35 keys, 47935 bytes
+2025/07/11-16:12:28.887 5d2f Compacted 1@1 + 1@2 files => 47935 bytes
+2025/07/11-16:12:28.888 5d2f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/11-16:12:28.888 5d2f Delete type=2 #94
+2025/07/11-16:12:28.888 5d2f Delete type=2 #97

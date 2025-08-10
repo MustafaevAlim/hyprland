@@ -1,0 +1,7 @@
+2025/06/30-00:24:31.830 af66 File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb is locked for recovering successfully
+2025/06/30-00:24:31.830 af66 Reusing MANIFEST /home/traktor/.config/yandex-browser/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/30-00:24:31.830 af66 Recovering log #3
+2025/06/30-00:24:31.831 af66 Reusing old log /home/traktor/.config/yandex-browser/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb/000003.log 
+2025/06/30-00:25:34.926 af63 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb, waiting for background work finished
+2025/06/30-00:25:34.927 af63 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb, background work finished
+2025/06/30-00:25:34.927 af63 File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb unlocked successfully

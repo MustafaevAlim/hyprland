@@ -1,0 +1,14 @@
+[Added Associations]
+application/toml=code-3.desktop;
+text/css=code-4.desktop;
+text/plain=code-6.desktop;code-5.desktop;code-2.desktop;
+
+[Default Applications]
+application/toml=code-3.desktop;
+text/css=code-4.desktop;
+text/html=yandex-browser.desktop
+text/plain=code-6.desktop;
+x-scheme-handler/about=yandex-browser.desktop
+x-scheme-handler/http=yandex-browser.desktop
+x-scheme-handler/https=yandex-browser.desktop
+x-scheme-handler/unknown=yandex-browser.desktop

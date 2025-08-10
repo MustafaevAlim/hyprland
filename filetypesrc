@@ -1,0 +1,4 @@
+[EmbedSettings]
+embed-application/toml=false
+embed-text/css=false
+embed-text/plain=false

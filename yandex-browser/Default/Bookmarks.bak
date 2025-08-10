@@ -1,0 +1,48 @@
+{
+   "checksum": "8eab7fcfa51b67e50224230394558d53",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13395524728577869",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "collections": {
+         "children": [  ],
+         "date_added": "13395524728577877",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "97771812-f614-5427-9a0f-e7edd9bc1240",
+         "id": "4",
+         "name": "Избранное",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13395524728577872",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другие закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13395524728577874",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Моб. закладки",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjAKEAiIgQISCgABCAYaBAgAEAASACoYUzJtcFc5RGxDQi9zT21CVHdzdFpyUT09SAMShgEIBBKBAQocblVQNFErUERRSnA2dDM1Si8rYThFUjRJT2xJPRImMzI5MDRfMzA2NzAxYmIzZTU4OWZmMGQ2ZTE4YmVmYzNmZTBhZDQYACAAKAAwBjj8/46CzTFA/P+Ogs0xShxaVjFzZjVaRkpCS3JyYldNWWlCR2xSYjhaTzg9WgBlAAAAABKGAQgDEoEBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiYzMjkwNF9hZTJhZGU5Mjg3MjQ4MjI5ZDEzMTI0M2EwYTdkNzZjORgAIAAoADAEOKrcttKnMECq3LbSpzBKHHR2cVpuNW51N0t5azlqSlV3YkdUZGR5VlA5TT1aAGUAAAAAEoYBCAISgQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJjMyOTA0XzJiYTdiYTI3YTcwNzYxMWNjNTQ0NTBjN2M1Y2UwOTJhGAAgACgAMAM4qty20qcwQKrcttKnMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAShgEIARKBAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRImMzI5MDRfMmM1Y2VlZjllNTg4Y2M0NGYxMTJlYTQwNzIyMDFlMGEYACAAKAAwAjiq3LbSpzBAqty20qcwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAADABOAA=",
+   "version": 1,
+   "yandex_version": 1
+}

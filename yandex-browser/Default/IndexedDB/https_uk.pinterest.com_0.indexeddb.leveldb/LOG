@@ -1,0 +1,6 @@
+2025/06/30-00:40:45.885 d13c File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_uk.pinterest.com_0.indexeddb.leveldb is locked for recovering successfully
+2025/06/30-00:40:45.885 d13c Creating DB /home/traktor/.config/yandex-browser/Default/IndexedDB/https_uk.pinterest.com_0.indexeddb.leveldb since it was missing.
+2025/06/30-00:40:45.888 d13c Reusing MANIFEST /home/traktor/.config/yandex-browser/Default/IndexedDB/https_uk.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/30-00:41:12.150 d13c Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_uk.pinterest.com_0.indexeddb.leveldb, waiting for background work finished
+2025/06/30-00:41:12.151 d13c Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/IndexedDB/https_uk.pinterest.com_0.indexeddb.leveldb, background work finished
+2025/06/30-00:41:12.151 d13c File /home/traktor/.config/yandex-browser/Default/IndexedDB/https_uk.pinterest.com_0.indexeddb.leveldb unlocked successfully

@@ -1,0 +1,6 @@
+2025/06/29-23:12:19.279 a0e2 File /home/traktor/.config/yandex-browser/Default/File System/003/t/Paths is locked for recovering successfully
+2025/06/29-23:12:19.279 a0e2 Creating DB /home/traktor/.config/yandex-browser/Default/File System/003/t/Paths since it was missing.
+2025/06/29-23:12:19.281 a0e2 Reusing MANIFEST /home/traktor/.config/yandex-browser/Default/File System/003/t/Paths/MANIFEST-000001
+2025/06/29-23:22:19.290 a0e0 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/File System/003/t/Paths, waiting for background work finished
+2025/06/29-23:22:19.290 a0e0 Deletion DBImpl for /home/traktor/.config/yandex-browser/Default/File System/003/t/Paths, background work finished
+2025/06/29-23:22:19.290 a0e0 File /home/traktor/.config/yandex-browser/Default/File System/003/t/Paths unlocked successfully
