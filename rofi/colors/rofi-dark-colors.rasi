@@ -1,0 +1,12 @@
+* {
+    background:     #000000FF;
+    background-alt: #101010FF;
+    foreground:     #FFFFFFFF;
+    selected:       #62AEEFFF;
+    active:         #98C379FF;
+    urgent:         #E06B74FF;
+    selected-active-background:  #BDDDF8FF; // Buttons background (ярче selected)
+    selected-normal-background:  #62AEEFFF; // Button selected (как selected)
+    selected-urgent-background:  #E06B74FF; // Window activated (как urgent)
+
+}
